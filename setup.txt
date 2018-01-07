@@ -1,0 +1,7 @@
+linux 
+------
+- do your updates/upgrades
+- apt-get istall redis-server
+- make a backup of the redis.conf (call it redis.cong.default or whatever, in the same location)
+- start service redis
+- redis-cli (start redis cli)
